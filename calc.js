@@ -1,4 +1,4 @@
-var Fcalc = document.calc;
+class Calc { var Fcalc = document.calc;
 var Flag = false;
 var Now = 0;
 var PendingOp = "";
@@ -63,4 +63,5 @@ function Clear ()
 		Fcalc.ReadOut.value = "0";
 		FlagNewNum = true;
 
+}
 }

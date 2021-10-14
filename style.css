@@ -1,18 +1,18 @@
 .tblCalc{
- 		border:1px solid gray;
- 		width:150px;
- 		text-align:center;
-        
- 	}
- 	.tblCalc input{
- 		border:1px solid gray;
- 		width:30px;
- 	
- 	}
-	 	#btnWide{
- 		width:64px;
-        height:20px;
- 	}
- 	#editWide{
- 		width:160px;
- 	}
+border:1px solid gray;
+width:150px;
+text-align:center;
+
+}
+.tblCalc input{
+border:1px solid gray;
+width:30px;
+
+}
+#btnWide{
+width:64px;
+height:20px;
+}
+#editWide{
+width:160px;
+}
